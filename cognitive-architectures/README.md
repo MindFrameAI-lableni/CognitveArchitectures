@@ -22,7 +22,7 @@ cognitive-architectures
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MindFrameAI-lableni/CognitveArchitectures.git
 cd cognitive-architectures
 pip install -r requirements.txt
 ```
