@@ -15,31 +15,31 @@ cognitive-architectures
 └── README.md
 ```
 
-## Installation
-
-To set up the project, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/MindFrameAI-lableni/CognitveArchitectures.git
-cd cognitive-architectures
-pip install -r requirements.txt
-```
-
-## Usage
-
-To run the main application, execute the following command:
+🛠 Installation
+1️⃣ Clone the repository:
 
 ```bash
-python src/main.py
+ git clone https://github.com/MindFrameAI-lableni/Picture.git
+ cd PICTURE
 ```
 
-## Testing
-
-To run the unit tests for the LLMArchitecture class, use:
+2️⃣ Create a virtual environment:
 
 ```bash
-pytest tests/test_llm_architecture.py
+ python -m venv .venv
+ .venv\Scripts\activate  # On Linux use `source .venv/bin/activate`
 ```
+
+3️⃣ System Requirements
+
+- Python: 3.12
+
+4️⃣ Install dependencies:
+
+```bash
+ pip install -r requirements.txt
+```
+
 
 ## Contributing
 
