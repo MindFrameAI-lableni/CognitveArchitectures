@@ -11,8 +11,6 @@ cognitive-architectures
 │   └── cognitive
 │       ├── __init__.py
 │       └── llm_architecture.py
-├── tests
-│   └── test_llm_architecture.py
 ├── requirements.txt
 └── README.md
 ```
