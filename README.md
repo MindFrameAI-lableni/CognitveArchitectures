@@ -50,3 +50,9 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+🤝 Contributing
+Contributions are welcome! To contribute: 1️⃣ Fork the repository. 2️⃣ Create a new branch (feature/your-feature). 3️⃣ Commit your changes. 4️⃣ Submit a pull request.
+
+📞 Contact
+For any issues, open an issue on GitHub or contact: 📧 Email: mvalcal1@upv.edu.es 📌 GitHub: https://github.com/MindFrameAI-lableni/CognitveArchitectures.git
